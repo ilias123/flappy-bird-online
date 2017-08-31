@@ -8,7 +8,11 @@ in this Edition of <a href="http://flappybird.ws/" target="_blank">flappy bird o
 
 scoreboard , volume on/off and this is just beta version.
 
-i invite all friends and fans for this game to <a href="http://flappybird.ws/" target="_blank">play flappy bird</a> Gold Edition 2017. 
+i invite all friends and fans for this game to <a href="http://flappybird.ws/" target="_blank">play flappy bird</a> Gold Edition 2017.
+
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/nLvMgk/Screenshot_1.png" alt="Screenshot_1" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/d6vbE5/Screenshot_2.png" alt="Screenshot_2" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/gtQXnQ/Screenshot_3.png" alt="Screenshot_3" border="0"></a>
 
 
 
