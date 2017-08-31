@@ -1,4 +1,4 @@
-# flappy-bird-online
+# flappy-bird
 
 we have developed a new HTML5 version of <a href="http://flappybird.ws/" target="_blank">flappy bird</a> the most addictive game for android and IOS in 2013 originally created and developed by the Vietnamese Dong Nguyen .
 
